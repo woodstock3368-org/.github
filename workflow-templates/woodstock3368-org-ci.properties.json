@@ -1,0 +1,12 @@
+{
+    "name": "Woodstock3368 Organization Workflow",
+    "description": "Woodstock3368 Organization CI workflow template.",
+    "iconName": "woodstock3368",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "blueprint.yml"
+    ]
+}
+
